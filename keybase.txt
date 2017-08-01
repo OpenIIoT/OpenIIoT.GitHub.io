@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/openiiot
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://openiiot.org
+    * I am openiiot (https://keybase.io/openiiot) on keybase.
+      * I have a public key with fingerprint 0016 A408 C4CE 063F 2872  0309 8CC0 7BB7 6756 983D
+
+      To do so, I am signing this object:
+
+      {
+          "body": {
+	          "key": {
+		              "eldest_kid": "01019587b8f062ec1db8db5d8eae363da8a43e366d91d08bd2cf323f2c5ca450ff3b0a",
+			                  "fingerprint": "0016a408c4ce063f287203098cc07bb76756983d",
+					              "host": "keybase.io",
+						                  "key_id": "8cc07bb76756983d",
+								              "kid": "01019587b8f062ec1db8db5d8eae363da8a43e366d91d08bd2cf323f2c5ca450ff3b0a",
+									                  "uid": "666f072d2bcdab2c53b121dbe5cfb519",
+											              "username": "openiiot"
+												              },
+													              "service": {
+														                  "hostname": "openiiot.org",
+																              "protocol": "http:"
+																	              },
+																		              "type": "web_service_binding",
+																			              "version": 1
+																				          },
+																					      "ctime": 1489277880,
+																					          "expire_in": 157680000,
+																						      "prev": "e68bb85f1c14f3503118e19b37c95e85a17d4ca61ce5a3d7a4da3409c78a9b0a",
+																						          "seqno": 4,
+																							      "tag": "signature"
+																							      }
+
+																							      which yields the signature:
+
+																							      -----BEGIN PGP MESSAGE-----
+																							      Version: Keybase OpenPGP v2.0.64
+																							      Comment: https://keybase.io/crypto
+
+																							      yMIhAnicrZJ9aE5RHMefedmymZf5Q0jqGonHOue+nvvkD8n+EIok+wNP5+3uuTb3
+																							      Xve52zxmXkqLETEvKcoIbSNRsloYPWuPYW2NkpeGzEtStHnJUs4d/pE/nX/OOb/z
+																							      +X7P9/w66fyRkdysC+M/n5mdk76adffW0YpISbq+pVoiLktJsWqpjA9PvJzxZBAv
+																							      s5kUkwAE0NSQQZAFdJlTyAhiRGOIY67oCsMIq4pY6cyEDCDCZGopsmLJVKNY1YBl
+																							      KQRgKSpZtlPKfc+3nSC0BVDHKkBUpRzoAkeGDBRgIkqBQYihG5puIoUJYcJNhgoR
+																							      juAkL7JdUROb+HC8f/D/OXfFsJ2u6xYwZCYTyjARkEKgLDy5Ri2iQTMEk9x38EYu
+																							      aNfjjm27gVQTlUS10qY8bGz4kr+IItcvFVrPdwOXuuXiJBEEXiwUBikvJKs4if/2
+																							      iBPbYaKNQlDJ/aTtOlIMCpIGdmgKVWTKhoEQiEp8s2f7PG6HhGboCIgRXsMrhSXX
+																							      ESFIsyCFqqVoQIEQcWgSxaCmxpGGocFUinVIuYYVZmCVYUUFJjUQNn91Jck3Oa4U
+																							      U0VMXCosk3apg4MKn0s1t9vWjopk5UayR48Iv1ckd8yEP5+upznnx/SmzOKHN9/O
+																							      +brrrEdPHfn8ZVvvtezvGxqG6vUdi4YuwvP1az42HRrjZx5ten0dtR+8R8cNzu0/
+																							      2Rov7pe6tcLug2+e1caWFKwcGKya0Z9fMPB+3R1v4rhZx7aAL6dXfeuuu/vhxKFJ
+																							      tb2DVZg8mXnAS6d/EGdD3/rqfKck7xQuudGx8Ovkmvddl+ePTaB5l+/va3z3tJOt
+																							      q1z2uLNrwZTj1/H3WS9TqUt5n1bfa2+7+elD36qG9qnLl+VMS6RPv+qsW/jg2/PV
+																							      heVZu19EGyY91av6yl7O+dhxZGlxuu1K1Ni5Z/r21IqtA5NrmhrX7t/bmmnONB4u
+																							      bM/05GWnjyeaWh6eM3b+BEcvUVk=
+																							      =fghP
+																							      -----END PGP MESSAGE-----
+
+																							      And finally, I am proving ownership of this host by posting or
+																							      appending to this document.
+
+																							      View my publicly-auditable identity here: https://keybase.io/openiiot
+
+																							      ==================================================================
+
